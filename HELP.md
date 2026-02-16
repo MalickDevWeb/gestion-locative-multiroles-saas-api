@@ -1,11 +1,11 @@
 # HELP - Racine Projet
 
 ## Role
-Ce projet a ete volontairement vide.
+Backend Laravel (base reconstruite) avec structure API v1, endpoint sante et Swagger.
 
 ## Ce qu'il faut mettre ici
-- Uniquement des dossiers fonctionnels (app, config, routes, etc.).
-- Chaque dossier doit contenir son propre fichier `HELP.md`.
+- Fichiers de configuration du projet (composer, package, README, artisan, etc.).
+- Dossiers applicatifs standards Laravel.
 
 ## Regle
-Ne pas ajouter de code ici sans definir d'abord le role du dossier concerne.
+Garder une separation claire entre code metier, config, routes, tests et documentation.
